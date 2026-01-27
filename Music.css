@@ -1,28 +1,28 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 293px;
+  min-height: 295px;
 }
 
 .u-section-1 .u-image-1 {
   width: 776px;
-  height: 293px;
+  height: 295px;
   margin: 0 auto;
 }
 
 .u-section-1 .u-group-1 {
-  width: 158px;
+  width: 152px;
   min-height: 51px;
   height: auto;
-  margin: -172px auto 60px 124px;
+  margin: -173px auto 122px 130px;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 0 16px;
+  padding: 0 13px;
 }
 
 .u-section-1 .u-text-1 {
   font-family: Helvetica;
   font-size: 3rem;
-  margin: -13px auto -13px 16px;
+  margin: -13px 0;
 }
 
 @media (max-width: 1199px) {

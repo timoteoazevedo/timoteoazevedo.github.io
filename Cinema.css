@@ -5,14 +5,14 @@
 .u-section-1 .u-image-1 {
   width: 776px;
   height: 295px;
-  margin: 1px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-group-1 {
   width: 202px;
-  min-height: 50px;
+  min-height: 51px;
   height: auto;
-  margin: -186px auto 60px 121px;
+  margin: -173px auto 60px 130px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -49,7 +49,6 @@
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 51px;
     margin-top: -162px;
     margin-left: 0;
   }
