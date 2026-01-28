@@ -179,6 +179,11 @@
   .u-section-3 .u-custom-html-1 {
     width: 540px;
   }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 20px;
+    margin-bottom: initial;
+  }
 }
 
 @media (max-width: 575px) {
@@ -245,6 +250,11 @@
   .u-section-4 .u-custom-html-1 {
     width: 540px;
   }
+
+  .u-section-4 .u-text-2 {
+    margin-top: 20px;
+    margin-bottom: initial;
+  }
 }
 
 @media (max-width: 575px) {
@@ -307,6 +317,11 @@
 @media (max-width: 767px) {
   .u-section-5 .u-custom-html-1 {
     width: 540px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-top: 20px;
+    margin-bottom: initial;
   }
 }
 
